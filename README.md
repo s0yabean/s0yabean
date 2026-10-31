@@ -16,6 +16,11 @@ CTO of [Mindreader](https://tonytonggg.com/work/mindreader), an AI sales intelli
 | Agent approval queue | Agents submit drafts; a human approves, edits or rejects before anything is sent | [agent-approval-queue](https://github.com/s0yabean/agent-approval-queue) |
 | LLM provider resilience | Fallback chains, credential pools and circuit breakers, with outage runbooks | [llm-provider-resilience](https://github.com/s0yabean/llm-provider-resilience) |
 | Macro regime data pipeline | Point-in-time data with anti-lookahead release lags and SQL health checks | [macro-regime-data-pipeline](https://github.com/s0yabean/macro-regime-data-pipeline) |
+| [Scheduled AI jobs for cents](https://tonytonggg.com/writing/scheduled-ai-jobs-for-cents) | Jobs moved off a US$99-a-month service; each run now costs cents | [scheduled-claude-jobs](https://github.com/s0yabean/scheduled-claude-jobs) |
+| [An AI quality gate for every article](https://tonytonggg.com/writing/an-ai-quality-gate-for-every-article) | A gate measured against the author's own verdicts, with a ledger that forces re-scoring after edits | [article-quality-gate](https://github.com/s0yabean/article-quality-gate) |
+| Sayura voice app | Shipped to the App Store: speech-to-text, a fast LLM with a strong fallback | [sayura-app](https://github.com/s0yabean/sayura-app) |
+| Persona sales copilot | Mindreader demo for bank relationship managers, on synthetic data | [persona-sales-copilot](https://github.com/s0yabean/persona-sales-copilot) |
+| BERT serving API | A 2021 Mindreader serving stack, reviewed: tokenizer reload cut from 12.3 ms to 0.11 ms per request | [bert-tfserving-api](https://github.com/s0yabean/bert-tfserving-api) |
 | [Fully private AI for a 50-person firm](https://tonytonggg.com/writing/fully-private-ai-knowledge-base) | Service levels and a phased study before building the app | — |
 | [Live UAT with insurance advisers](https://tonytonggg.com/work/forward-deployed-ai) | Generic AI insight turned into a role-specific coaching workflow |
 | [Google Crowdsource × Explore ML](https://tonytonggg.com/work/google-crowdsource-explore-ml) | Machine learning taught to 900 non-technical learners across Asia |
