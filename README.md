@@ -20,6 +20,8 @@ CTO of [Mindreader](https://tonytonggg.com/work/mindreader), an AI sales intelli
 | [Live UAT with insurance advisers](https://tonytonggg.com/work/forward-deployed-ai) | Generic AI insight turned into a role-specific coaching workflow |
 | [Google Crowdsource × Explore ML](https://tonytonggg.com/work/google-crowdsource-explore-ml) | Machine learning taught to 900 non-technical learners across Asia |
 
+**Earlier work:** [twitter_mbti_ml](https://github.com/s0yabean/twitter_mbti_ml) (2017, predicting personality type from social posts) and [mbti_classifier_streamlit](https://github.com/s0yabean/mbti_classifier_streamlit) (2024), the text-classification thread that led to Mindreader · [footprint](https://github.com/s0yabean/footprint) (Berkeley hackathon, 2017).
+
 #### Stack
 
 Python · TypeScript · Next.js · LLM evals · RAG and GraphRAG (Neo4j) · Claude and OpenAI APIs · MCP · local models
