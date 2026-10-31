@@ -7,12 +7,16 @@ CTO of [Mindreader](https://tonytonggg.com/work/mindreader), an AI sales intelli
 
 #### Selected work
 
-| Work | What was measured |
-|---|---|
-| [GraphRAG vs hybrid RAG on 13,000 private notes](https://tonytonggg.com/writing/graphrag-vs-hybrid-rag-on-private-notes) | Graph alone lost to hybrid search (p = 0.04); graph on top of hybrid helped time-based questions |
-| [Evals for an AI web-research step](https://tonytonggg.com/writing/evals-ai-web-research-crm) | Wrong matches cut from 12 in 60 to 2 in 60, and 0 in 23 on a fresh holdout |
-| [Benchmarking The Modern Shrine's AI agent](https://tonytonggg.com/writing/benchmarking-the-modern-shrine-agent) | 36.7% against a 25% random baseline, with a ranked list of fixes |
-| [Fully private AI for a 50-person firm](https://tonytonggg.com/writing/fully-private-ai-knowledge-base) | Service levels and a phased study before building the app |
+| Work | What was measured | Code |
+|---|---|---|
+| [GraphRAG vs hybrid RAG on 13,000 private notes](https://tonytonggg.com/writing/graphrag-vs-hybrid-rag-on-private-notes) | Graph alone lost to hybrid search (p = 0.04); graph on top of hybrid helped time-based questions | [graphrag-vs-hybrid-rag-eval](https://github.com/s0yabean/graphrag-vs-hybrid-rag-eval) |
+| [Evals for an AI web-research step](https://tonytonggg.com/writing/evals-ai-web-research-crm) | Wrong matches cut from 12 in 60 to 2 in 60, and 0 in 23 on a fresh holdout | [llm-research-eval-harness](https://github.com/s0yabean/llm-research-eval-harness) |
+| [Benchmarking The Modern Shrine's AI agent](https://tonytonggg.com/writing/benchmarking-the-modern-shrine-agent) | 36.7% against a 25% random baseline, with a ranked list of fixes | [mingli-bench-harness](https://github.com/s0yabean/mingli-bench-harness) |
+| Gated LLM pipeline | Code owns the flow; a cheap classifier gates each step and only unsure items reach the LLM | [gated-llm-pipeline](https://github.com/s0yabean/gated-llm-pipeline) |
+| Agent approval queue | Agents submit drafts; a human approves, edits or rejects before anything is sent | [agent-approval-queue](https://github.com/s0yabean/agent-approval-queue) |
+| LLM provider resilience | Fallback chains, credential pools and circuit breakers, with outage runbooks | [llm-provider-resilience](https://github.com/s0yabean/llm-provider-resilience) |
+| Macro regime data pipeline | Point-in-time data with anti-lookahead release lags and SQL health checks | [macro-regime-data-pipeline](https://github.com/s0yabean/macro-regime-data-pipeline) |
+| [Fully private AI for a 50-person firm](https://tonytonggg.com/writing/fully-private-ai-knowledge-base) | Service levels and a phased study before building the app | — |
 | [Live UAT with insurance advisers](https://tonytonggg.com/work/forward-deployed-ai) | Generic AI insight turned into a role-specific coaching workflow |
 | [Google Crowdsource × Explore ML](https://tonytonggg.com/work/google-crowdsource-explore-ml) | Machine learning taught to 900 non-technical learners across Asia |
 
