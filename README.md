@@ -1,7 +1,8 @@
 ### Tony Tong · Applied AI, Singapore
 
 Applied AI work for businesses: find the real problem, prototype the risky assumption, measure it, then take it to production.
-CTO of [Mindreader](https://tonytonggg.com/work/mindreader), an AI sales intelligence platform used by teams at AIA, CIMB and Manulife.
+CTO of [Mindreader](https://tonytonggg.com/work/mindreader), an AI sales intelligence platform used by teams at AIA, CIMB and Manulife, and of [The Modern Shrine](https://www.themodernshrine.com).
+Past work with Rakuten, Google Crowdsource × Explore ML and Omdena.
 
 **Site:** [tonytonggg.com](https://tonytonggg.com) · **LinkedIn:** [tonytongtszhin](https://www.linkedin.com/in/tonytongtszhin)
 
